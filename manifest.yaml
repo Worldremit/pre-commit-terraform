@@ -1,0 +1,11 @@
+metadata:
+  type: infrastructure
+  project: pre-commit-terraform
+  description: "Terraform pre-commit"
+  owner:
+      email: devops@worldremit.com
+      slack: '#devops-help'
+      team: devops
+
+attrs:
+  jira: "https://worldremit.atlassian.net/secure/RapidBoard.jspa?rapidView=526&projectKey=DEVOPS"
